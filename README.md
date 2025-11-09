@@ -11,7 +11,7 @@
 
 ```bash
 git clone https://github.com/vineeth-sakhamuru/csv-chatbot.git
-cd csv-chatbot
+cd csv_query_assistant
 ```
 ## Install requirements
 
